@@ -25,7 +25,7 @@ Robocopy Scheduler is an intuitive GUI frontend and scheduling management tool d
 1. Place `RobocopyScheduler.exe` and its files in any directory and run it.
 2. Click **Add New** in the "Job Settings" tab to create a backup job, then select your Source and Destination folders.
 3. Configure your desired backup mode, performance options, and schedule settings.
-4. Check **Enable automatic scheduled execution for this job** and click **Save Job** (or click **Run Now** for manual execution).
+4. Check **Enable schedule for this job** and click **Save Job** (or click **Run Now** for manual execution).
 
 ### Editions & Licensing
 - **Free Edition**: Fully free for personal environments and non-managed devices. In corporate environments, all features except scheduled automatic execution are available (manual execution only).
@@ -67,7 +67,7 @@ Robocopy Scheduler（ロボコピー・スケジューラー）は、Windows標�
 1. 任意のフォルダに `RobocopyScheduler.exe` を配置して起動します。
 2. 「ジョブ設定」タブで「新規追加」をクリックし、コピー元フォルダとコピー先フォルダを指定します。
 3. バックアップ方式、転送オプション、実行スケジュールを設定します。
-4. 「このジョブの自動スケジュール実行を有効にする」にチェックを入れて「ジョブを保存」します（「今すぐ手動実行」による即時実行も可能です）。
+4. 「このジョブのスケジュールを有効にする」にチェックを入れて「ジョブを保存」します（「今すぐ手動実行」による即時実行も可能です）。
 
 ### エディションとライセンス
 - **Free版**: 個人環境や非管理デバイスでは、完全無料で全機能をご利用いただけます。企業環境でもFree版を利用可能ですが、スケジュール自動実行機能は制限されます（手動実行のみ対応）。
