@@ -51,8 +51,8 @@ Robocopy Scheduler is an intuitive GUI frontend and scheduling management tool d
 ### Links & Contact
 
 * **Developer**: chilili kobo
-* **Website**: [https://chililikobo.github.io/en/](https://www.google.com/search?q=https://chililikobo.github.io/en/&utm_source=gemini)
-* **X (Twitter)**: [@chililikobo](https://www.google.com/search?q=https://x.com/chililikobo&utm_source=gemini)
+* **Website**: [[https://chililikobo.github.io/en/](https://chililikobo.github.io/en/)
+* **X (Twitter)**: [@chililikobo](https://x.com/chililikobo)
 * **Email**: chilili.kobo@gmail.com
 
 ---
@@ -99,6 +99,6 @@ Robocopy Scheduler（ロボコピー・スケジューラー）は、Windows標�
 ### リンク・連絡先
 
 * **制作者**: chilili kobo
-* **ウェブサイト**: [https://chililikobo.github.io/](https://www.google.com/search?q=https://chililikobo.github.io/&utm_source=gemini)
-* **X (旧Twitter)**: [@chililikobo](https://www.google.com/search?q=https://x.com/chililikobo&utm_source=gemini)
+* **ウェブサイト**: [https://chililikobo.github.io/](https://chililikobo.github.io/)
+* **X (旧Twitter)**: [@chililikobo](https://x.com/chililikobo)
 * **メール**: chilili.kobo@gmail.com
