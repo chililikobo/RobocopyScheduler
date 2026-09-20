@@ -1,9 +1,9 @@
+# Robocopy Scheduler
+
 [![Latest Release](https://badgen.net/github/release/chililikobo/RobocopyScheduler)](https://github.com/chililikobo/RobocopyScheduler/releases/latest)
 [![Downloads](https://badgen.net/github/assets-dl/chililikobo/RobocopyScheduler)](https://github.com/chililikobo/RobocopyScheduler/releases/latest)
 [![License](https://badgen.net/badge/license/Free%20%2F%20Commercial/purple)](#editions--licensing)
 [![Platform](https://badgen.net/badge/platform/Windows%2011%20%2F%20Server%202025/black)](https://chililikobo.github.io/en/robocopyscheduler.html)
-
-# Robocopy Scheduler
 
 [English](https://www.google.com/search?q=%2523english&utm_source=gemini) | [日本語](https://www.google.com/search?q=%2523%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E&utm_source=gemini)
 
