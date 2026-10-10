@@ -13,6 +13,8 @@
 
 Robocopy Scheduler is an intuitive GUI frontend and scheduling management tool designed to automate and simplify Windows standard "Robocopy" command tasks. Without remembering complex command-line arguments, you can easily configure advanced file transfer settings and run automated background backups.
 
+![Robocopy Scheduler Demo](https://chililikobo.github.io/img/RobocopyScheduler_ani.gif)
+
 ### Key Features
 
 - **Intuitive GUI & Advanced Options**: Easily configure backup modes such as **Mirror (/MIR)**, **Safe Add (/E)**, or **Update (/E /XO)**, as well as multi-threading, SMB compression (`/COMPRESS`), and bypassing access denial (`/ZB`).
