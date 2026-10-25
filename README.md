@@ -43,12 +43,7 @@ Robocopy Scheduler is an intuitive GUI frontend and scheduling management tool d
 - **Warranty**: Provided "As-Is". The author assumes no responsibility for any damages resulting from the use of this software.
 
 ### Credits (External Libraries)
-
-- Avalonia UI Framework (MIT License)
-- CommunityToolkit.Mvvm (MIT License)
-- Cronos (MIT License)
-- DynamicData (MIT License)
-- QRCoder (MIT License)
+This application incorporates open-source components. For detailed copyright notices and license agreements, refer to [ThirdPartyNotices.md](ThirdPartyNotices.md).
 
 ### Links & Contact
 
@@ -91,12 +86,7 @@ Robocopy Scheduler（ロボコピー・スケジューラー）は、Windows標�
 - **免責事項**: 本ソフトウェアは「現状有姿（As-Is）」で提供され、使用により生じた一切の損害について作者は責任を負いません。
 
 ### 外部ライブラリ（クレジット）
-
-- Avalonia UI Framework (MIT License)
-- CommunityToolkit.Mvvm (MIT License)
-- Cronos (MIT License)
-- DynamicData (MIT License)
-- QRCoder (MIT License)
+本ソフトウェアはオープンソースコンポーネントを使用しています。各コンポーネントの著作権表示およびライセンス条文の詳細は [ThirdPartyNotices.md](ThirdPartyNotices.md) をご参照ください。
 
 ### リンク・連絡先
 
